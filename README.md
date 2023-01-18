@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @goode8
-- 👀 I’m interested in iot, security, climate restoration.
-- 👀 I like movies and having a great time doing the same things everyday: Swim, sit/stand at my desk, have a quick dance party, walk after dinner. Repeat.
-- 🌱 I’m currently learning something...
-- 💞️ I’m looking to collaborate on almost anything.
-- 📫 Got my masters of science in computer science.
+Hi! My name is Dawn Goodnight
+======================================================================================================================================
 
-<!---
-goode8/goode8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Development Engineer
+-----------------------------
+
+I have leaned into new technologies for as long as I can remember. I have worked in Software Engineering, Product Management, and even content creation (we didn't call it that then). I love learning, teaching, collaborating and documenting. My latest stack was: FastAPI, Vue, and PostgresDB on Docker, Poetry Library Management, GitHub and AWS on a Kanban team. I also have a Master of Science in Computer Science (MSCS).
+
+*   🌍  I'm based in San Jose, CA
+*   ✉️  You can contact me at [drgood@umich.edu](mailto:drgood@umich.edu)
+*   🧠  I'm learning a lot including XR, Unity.
+*   🤝  I'm open to collaborating on almost anything.
+*   ⚡  I am originally from Michigan, I swim most mornings, and I prefer a list to have both commas.
