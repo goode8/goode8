@@ -15,7 +15,7 @@ I have leaned into new technologies for as long as I can remember. I have worked
 
 ### Skills 
 
-<a href="#"><img src="https://github.com/goode8/profileme-dev/blob/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
+<a><img src="https://github.com/goode8/profileme-dev/blob/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
 <a href="#"><img src="https://github.com/goode8/profileme-dev/blob/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue"/></a>
 <a href="#"><img src="https://github.com/goode8/profileme-dev/blob/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" title="FastAPI"/></a>
 <a href="#"><img src="https://github.com/goode8/profileme-dev/blob/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a>
