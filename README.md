@@ -9,7 +9,7 @@ I have leaned into new technologies for as long as I can remember. I used to tak
 *   🌍  I'm based in San Jose, CA
 *   ✉️  You can contact me at [drgood@umich.edu](mailto:drgood@umich.edu) and see [Socials](https://github.com/goode8/goode8/edit/main/README.md#socials) below
 *   🖥️  See my portfolio at [Google Sites](http://sites.google.com/view/dawn-goodnight)
-*   🧠  I'm learning a lot including Front End, XR, Unity.
+*   🧠  I'm learning a lot including React.
 *   🤝  I'm open to collaborating on almost anything.
 *   ⚡  I am originally from Michigan (Map of MI✋), I swim most mornings 🏊, and I prefer a list to have both commas.
 
